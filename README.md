@@ -10,6 +10,9 @@
   <p>
     AWS & HashiCorp certified • Based in Tbilisi, Georgia
   </p>
+  <p>
+    <strong>English</strong> · <a href="./README.ru.md">Русский</a>
+  </p>
 </div>
 
 <div align="center">
@@ -24,21 +27,13 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/AWS-Amazon%20EKS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EKS"/>
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate"/>
-</div>
-
 ---
 
 ## About
 
-I build infrastructure that engineering teams can trust under real production pressure. My work sits at the intersection of platform engineering, Kubernetes operations, infrastructure as code, CI/CD, observability, and security.
+I build infrastructure that teams can trust in production. My work centers on platform engineering, Kubernetes, infrastructure as code, CI/CD, observability, and security.
 
-Across AWS, GCP, and on-prem environments, I focus on turning operational complexity into repeatable systems: reusable platform primitives, safer delivery workflows, stronger recovery paths, and better signal from production.
-
-Experience includes ML/GPU Kubernetes workloads, large Linux estates, secure private cloud environments, and multi-environment delivery platforms for product teams.
+Across AWS, GCP, and on-prem environments, I turn operational complexity into repeatable systems with stronger delivery, recovery, and operational signal.
 
 ## What I Work With
 
@@ -60,34 +55,33 @@ Experience includes ML/GPU Kubernetes workloads, large Linux estates, secure pri
   <tr>
     <td width="50%" valign="top">
       <strong>Platform Foundations</strong><br/>
-      Kubernetes clusters, reusable deployment patterns, GitOps workflows, and environment automation that reduce delivery friction without sacrificing control.
+      Kubernetes platforms, GitOps workflows, and reusable deployment patterns for consistent multi-environment delivery.
     </td>
     <td width="50%" valign="top">
       <strong>Delivery Systems</strong><br/>
-      CI/CD pipelines, templated build logic, ephemeral staging environments, and release paths designed for speed, consistency, and lower operational risk.
+      CI/CD pipelines, templated build logic, and ephemeral environments that make releases faster and safer.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Reliability & Recovery</strong><br/>
-      Monitoring, alerting, backup automation, incident response support, disaster recovery planning, and migration execution with production safety as the baseline.
+      Monitoring, backup automation, disaster recovery, and migrations built around production safety.
     </td>
     <td width="50%" valign="top">
       <strong>Secure Operations</strong><br/>
-      Centralized authentication, secret handling, hardened infrastructure workflows, and operational patterns that keep access manageable and auditable.
+      SSO, secret handling, and hardened operational workflows with auditable access boundaries.
     </td>
   </tr>
 </table>
 
 ## Selected Impact
 
-- Migrated workloads from Docker Swarm to Kubernetes and introduced GitOps-oriented operating patterns for more controlled platform delivery.
-- Built GPU-enabled Kubernetes infrastructure for ML and LLM workloads, including MIG and time-slicing strategies to improve utilization.
-- Implemented centralized SSO with Keycloak across Grafana, Kubernetes, and GitLab to simplify access management and strengthen operational security.
-- Designed disaster recovery and automated backup flows for PostgreSQL, MongoDB, ClickHouse, and Elasticsearch, including a zero-loss Elasticsearch migration.
+- Migrated workloads from Docker Swarm to Kubernetes and established GitOps-driven delivery patterns.
+- Built GPU-enabled Kubernetes infrastructure for ML and LLM workloads with better resource utilization.
+- Implemented centralized SSO across Grafana, Kubernetes, and GitLab with Keycloak.
+- Designed backup and disaster recovery flows for core data platforms, including a zero-loss Elasticsearch migration.
 - Reduced AWS spend by `15%` through right-sizing and infrastructure plan optimization.
-- Accelerated CI/CD pipelines by `40%` using caching strategy, reusable templates, and prebuilt Docker images.
-- Removed roughly `70%` of repetitive operational work through Bash and Python automation.
+- Accelerated CI/CD pipelines by `40%` and removed roughly `70%` of repetitive operational work through automation.
 - Supported `1200+` Linux servers across `3` data centers in a 24/7 environment with SLA-driven incident response.
 
 ## Engineering Principles
@@ -97,13 +91,6 @@ Experience includes ML/GPU Kubernetes workloads, large Linux estates, secure pri
 - Prefer simple, auditable platform patterns over clever infrastructure that no one wants to own.
 - Build secure defaults first: identity, secrets, access boundaries, and recovery discipline.
 - Optimize for reliability and delivery speed together; one should not come at the expense of the other.
-
-## GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sasha-sup&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=sasha-sup&hide_border=true&theme=transparent&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub streak"/>
-</div>
 
 ## Contact
 
