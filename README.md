@@ -49,9 +49,3 @@
 - Secure defaults: identity, secrets, recovery.
 - Reliability and delivery speed — never one at the cost of the other.
 
-## Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasha-sup&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasha-sup&theme=tokyonight" alt="Top languages"/>
-</p>
