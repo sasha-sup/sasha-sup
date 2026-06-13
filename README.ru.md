@@ -31,12 +31,16 @@ DevOps / Platform Engineer · Тбилиси, Грузия
 
 ## Стек
 
-**Платформа** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · GitOps · Docker
-**Облако / IaC** AWS · GCP · Terraform · Ansible
-**Observability** VictoriaMetrics · VictoriaLogs · Prometheus · Grafana · Zabbix · ELK
-**Безопасность** Keycloak (SSO/OIDC) · HashiCorp Vault · custom KMS · LUKS
-**HA и сеть** HAProxy · multi-DC · VIP failover
-**Данные** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,gitlab,githubactions,jenkins,bash,python,prometheus,grafana,postgres,mysql,mongodb,redis,nginx,linux&perline=10" alt="Tech stack"/>
+</p>
+
+**Платформа** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · GitOps · Docker<br/>
+**Облако / IaC** AWS · GCP · Terraform · Ansible<br/>
+**Observability** VictoriaMetrics · VictoriaLogs · Prometheus · Grafana · Zabbix · ELK<br/>
+**Безопасность** Keycloak (SSO/OIDC) · HashiCorp Vault · custom KMS · LUKS<br/>
+**HA и сеть** HAProxy · multi-DC · VIP failover<br/>
+**Данные** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
 **AI/ML** GPU-планирование (NVIDIA MIG, time-slicing) · ML-пайплайны · RAG
 
 ## Сертификаты

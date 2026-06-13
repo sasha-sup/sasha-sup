@@ -31,12 +31,16 @@ DevOps / Platform Engineer · Tbilisi, Georgia
 
 ## Stack
 
-**Platform** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · GitOps · Docker
-**Cloud / IaC** AWS · GCP · Terraform · Ansible
-**Observability** VictoriaMetrics · VictoriaLogs · Prometheus · Grafana · Zabbix · ELK
-**Security** Keycloak (SSO/OIDC) · HashiCorp Vault · custom KMS · LUKS
-**HA & Net** HAProxy · multi-DC · VIP failover
-**Data** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,gitlab,githubactions,jenkins,bash,python,prometheus,grafana,postgres,mysql,mongodb,redis,nginx,linux&perline=10" alt="Tech stack"/>
+</p>
+
+**Platform** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · GitOps · Docker<br/>
+**Cloud / IaC** AWS · GCP · Terraform · Ansible<br/>
+**Observability** VictoriaMetrics · VictoriaLogs · Prometheus · Grafana · Zabbix · ELK<br/>
+**Security** Keycloak (SSO/OIDC) · HashiCorp Vault · custom KMS · LUKS<br/>
+**HA & Net** HAProxy · multi-DC · VIP failover<br/>
+**Data** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
 **AI/ML** GPU scheduling (NVIDIA MIG, time-slicing) · ML pipelines · RAG
 
 ## Certifications
