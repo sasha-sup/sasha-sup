@@ -11,6 +11,7 @@ DevOps / Platform Engineer · Tbilisi, Georgia
 <a href="https://sashasup.link"><img src="https://img.shields.io/badge/Website-sashasup.link-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://sashasup.link/cv?lang=en"><img src="https://img.shields.io/badge/CV-PDF-475569?style=flat-square&logo=readthedocs&logoColor=white" alt="CV"/></a>
 <a href="https://t.me/sasha_sup"><img src="https://img.shields.io/badge/Telegram-sasha__sup-26a5e4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://www.threads.com/@sashasup.1312"><img src="https://img.shields.io/badge/Threads-sashasup.1312-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads"/></a>
 <a href="mailto:a.suprun1312@gmail.com"><img src="https://img.shields.io/badge/Email-a.suprun1312%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 **English** · <a href="./README.ru.md">Русский</a>
