@@ -2,9 +2,9 @@
 
 # Aleksandr Suprun
 
-DevOps / Platform Engineer · Tbilisi, Georgia
+Senior DevOps / SRE Engineer · Tbilisi, Georgia
 
-7 years running production infrastructure — bare-metal datacenters, Kubernetes, and GPU clusters for ML/LLM.
+7+ years running production infrastructure — bare-metal datacenters, Kubernetes, and GPU clusters for ML/LLM. Moved 200+ services to dynamic Kubernetes staging; cut AWS cost by 15% and CI/CD time by 40%.
 
 <a href="https://github.com/sasha-sup"><img src="https://img.shields.io/badge/GitHub-sasha--sup-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/aleksandr-suprun"><img src="https://img.shields.io/badge/LinkedIn-aleksandr--suprun-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,8 +24,8 @@ DevOps / Platform Engineer · Tbilisi, Georgia
 
 | Years | Where | Role | Focus |
 | --- | --- | --- | --- |
-| 2023 – 2026 | Progressive Mind · Dubai | Senior DevOps | K8s + GPU/ML platform, SSO, custom KMS, multi-DC HA, DR |
-| 2023 | Sweatcoin · London | DevOps | Monitoring stack, Ansible / Terraform |
+| Nov 2023 – Mar 2026 | Progressive Mind · Dubai | Senior DevOps | 200+ services to K8s staging, GPU/ML platform, SSO, custom KMS, multi-DC HA, DR |
+| Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring stack, Ansible / Terraform |
 | 2021 – 2023 | Appello Software · Sydney | DevOps | −15% AWS spend, +40% CI/CD speed, reusable IaC |
 | 2020 – 2021 | RT Labs · Moscow | DevOps | Secure VMware cloud, GitLab CI, −70% manual ops |
 | 2018 – 2020 | Chestny Znak · Moscow | Linux Engineer | 1200+ servers, 3 datacenters, 24/7 on-call |
@@ -42,7 +42,7 @@ DevOps / Platform Engineer · Tbilisi, Georgia
 **Security** Keycloak (SSO/OIDC) · HashiCorp Vault · custom KMS · LUKS<br/>
 **HA & Net** HAProxy · multi-DC · VIP failover<br/>
 **Data** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
-**AI/ML** GPU scheduling (NVIDIA MIG, time-slicing) · ML pipelines · RAG
+**AI/ML** GPU scheduling (NVIDIA MIG, time-slicing) · LLM coding agents daily
 
 ## Certifications
 

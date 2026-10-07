@@ -2,9 +2,9 @@
 
 # Aleksandr Suprun
 
-DevOps / Platform Engineer · Тбилиси, Грузия
+Senior DevOps / SRE Engineer · Тбилиси, Грузия
 
-7 лет эксплуатирую production-инфраструктуру — bare-metal-ДЦ, Kubernetes и GPU-кластеры для ML/LLM.
+7+ лет эксплуатирую production-инфраструктуру — bare-metal-ДЦ, Kubernetes и GPU-кластеры для ML/LLM. Перевёл 200+ сервисов на динамические staging в Kubernetes; сократил расходы на AWS на 15% и время CI/CD на 40%.
 
 <a href="https://github.com/sasha-sup"><img src="https://img.shields.io/badge/GitHub-sasha--sup-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/aleksandr-suprun"><img src="https://img.shields.io/badge/LinkedIn-aleksandr--suprun-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,8 +24,8 @@ DevOps / Platform Engineer · Тбилиси, Грузия
 
 | Годы | Где | Роль | Над чем работал |
 | --- | --- | --- | --- |
-| 2023 – 2026 | Progressive Mind · Дубай | Senior DevOps | K8s + GPU/ML-платформа, SSO, кастомный KMS, multi-DC HA, DR |
-| 2023 | Sweatcoin · Лондон | DevOps | Мониторинг-стек, Ansible / Terraform |
+| Ноя 2023 – Мар 2026 | Progressive Mind · Дубай | Senior DevOps | 200+ сервисов на K8s staging, GPU/ML-платформа, SSO, кастомный KMS, multi-DC HA, DR |
+| Июл – Окт 2023 | Sweatcoin · Лондон | DevOps | Мониторинг-стек, Ansible / Terraform |
 | 2021 – 2023 | Appello Software · Сидней | DevOps | −15% расходов AWS, +40% скорости CI/CD, переиспользуемый IaC |
 | 2020 – 2021 | RT Labs · Москва | DevOps | Защищённое VMware-облако, GitLab CI, −70% ручных операций |
 | 2018 – 2020 | Честный Знак · Москва | Linux Engineer | 1200+ серверов, 3 ДЦ, 24/7 on-call |
@@ -42,7 +42,7 @@ DevOps / Platform Engineer · Тбилиси, Грузия
 **Безопасность** Keycloak (SSO/OIDC) · HashiCorp Vault · custom KMS · LUKS<br/>
 **HA и сеть** HAProxy · multi-DC · VIP failover<br/>
 **Данные** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
-**AI/ML** GPU-планирование (NVIDIA MIG, time-slicing) · ML-пайплайны · RAG
+**AI/ML** GPU-планирование (NVIDIA MIG, time-slicing) · LLM-агенты для кода ежедневно
 
 ## Сертификаты
 
