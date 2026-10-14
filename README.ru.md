@@ -2,9 +2,9 @@
 
 # Aleksandr Suprun
 
-Senior DevOps / SRE Engineer · Тбилиси, Грузия
+Senior DevOps / Platform Engineer · Тбилиси, Грузия
 
-7+ лет эксплуатирую production-инфраструктуру — bare-metal-ДЦ, Kubernetes и GPU-кластеры для ML/LLM. Перевёл 200+ сервисов на динамические staging в Kubernetes; сократил расходы на AWS на 15% и время CI/CD на 40%.
+7+ лет в production-инфраструктуре — bare metal, Kubernetes на Talos Linux и GPU-ноды для ML/LLM. Сократил ряды метрик на 25%, счёт EC2 на 15% и время CI на 40%.
 
 <a href="https://github.com/sasha-sup"><img src="https://img.shields.io/badge/GitHub-sasha--sup-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/aleksandr-suprun"><img src="https://img.shields.io/badge/LinkedIn-aleksandr--suprun-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,11 +24,12 @@ Senior DevOps / SRE Engineer · Тбилиси, Грузия
 
 | Годы | Где | Роль | Над чем работал |
 | --- | --- | --- | --- |
-| Ноя 2023 – Мар 2026 | Progressive Mind · Дубай | Senior DevOps | 200+ сервисов на K8s staging, GPU/ML-платформа, SSO, кастомный KMS, multi-DC HA, DR |
+| Янв 2026 – н.в. | Confidential iGaming B2B platform (NDA) | Senior DevOps / Platform | Платформа на Talos Linux, talosctl + GitLab CI, LUKS2 с KMS и dead man's switch, бэкапы etcd, Keycloak SSO, ArgoCD |
+| Мар 2024 – Мар 2026 | Progressive Mind · Дубай | DevOps | 136 хостов у 13 провайдеров на Ansible, GPU MIG + time-slicing, окружения на ветку в K8s, общие CI-шаблоны |
 | Июл – Окт 2023 | Sweatcoin · Лондон | DevOps | Мониторинг-стек, Ansible / Terraform |
-| 2021 – 2023 | Appello Software · Сидней | DevOps | −15% расходов AWS, +40% скорости CI/CD, переиспользуемый IaC |
+| 2021 – 2023 | Appello Software · Сидней | DevOps | −15% счёта EC2 (Reserved Instances), −40% времени CI-пайплайна, переиспользуемый IaC |
 | 2020 – 2021 | RT Labs · Москва | DevOps | Защищённое VMware-облако, GitLab CI, −70% ручных операций |
-| 2018 – 2020 | Честный Знак · Москва | Linux Engineer | 1200+ серверов, 3 ДЦ, 24/7 on-call |
+| 2018 – 2020 | Честный Знак · Москва | Linux Engineer | Дежурная смена 24/7, парк 1200+ серверов, 3 ДЦ |
 
 ## Стек
 
@@ -36,13 +37,17 @@ Senior DevOps / SRE Engineer · Тбилиси, Грузия
   <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,gitlab,githubactions,jenkins,bash,python,prometheus,grafana,postgres,mysql,mongodb,redis,nginx,linux&perline=10" alt="Tech stack"/>
 </p>
 
-**Платформа** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · GitOps · Docker<br/>
+**Платформа** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · ArgoCD · Flux · Docker<br/>
 **Облако / IaC** AWS · GCP · Terraform · Ansible<br/>
 **Observability** VictoriaMetrics · VictoriaLogs · Prometheus · Grafana · Zabbix · ELK<br/>
-**Безопасность** Keycloak (SSO/OIDC) · HashiCorp Vault · custom KMS · LUKS<br/>
-**HA и сеть** HAProxy · multi-DC · VIP failover<br/>
+**Безопасность** Keycloak (SSO/OIDC) · HashiCorp Vault · LUKS2 + KMS · Cloudflare<br/>
+**Сеть** HAProxy · nginx · Cilium (Gateway API) · iptables<br/>
 **Данные** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
 **AI/ML** GPU-планирование (NVIDIA MIG, time-slicing) · LLM-агенты для кода ежедневно
+
+## Open source
+
+[kms-client](https://github.com/sasha-sup/kms-client) — KMS-сервер для Talos с dead man's switch · PR в [siderolabs/talos](https://github.com/siderolabs/talos/pull/14575) (EFI boot entries) · влитые фиксы алертов LINSTOR в Cozystack
 
 ## Сертификаты
 
