@@ -45,10 +45,6 @@ Senior DevOps / Platform Engineer · Тбилиси, Грузия
 **Данные** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
 **AI/ML** GPU-планирование (NVIDIA MIG, time-slicing) · LLM-агенты для кода ежедневно
 
-## Open source
-
-[kms-client](https://github.com/sasha-sup/kms-client) — KMS-сервер для Talos с dead man's switch · PR в [siderolabs/talos](https://github.com/siderolabs/talos/pull/14575) (EFI boot entries) · влитые фиксы алертов LINSTOR в Cozystack
-
 ## Сертификаты
 
 HashiCorp Terraform Associate · AWS Certified Cloud Practitioner · AWS Knowledge: Architecting · AWS Knowledge: Amazon EKS

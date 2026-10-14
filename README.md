@@ -45,10 +45,6 @@ Senior DevOps / Platform Engineer · Tbilisi, Georgia
 **Data** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
 **AI/ML** GPU scheduling (NVIDIA MIG, time-slicing) · LLM coding agents daily
 
-## Open source
-
-[kms-client](https://github.com/sasha-sup/kms-client) — Talos KMS server with a dead man's switch · PR to [siderolabs/talos](https://github.com/siderolabs/talos/pull/14575) (EFI boot entries) · LINSTOR alert fixes merged in Cozystack
-
 ## Certifications
 
 HashiCorp Terraform Associate · AWS Certified Cloud Practitioner · AWS Knowledge: Architecting · AWS Knowledge: Amazon EKS
