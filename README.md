@@ -25,7 +25,7 @@ Senior DevOps / Platform Engineer · Tbilisi, Georgia
 | Years | Where | Role | Focus |
 | --- | --- | --- | --- |
 | Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior DevOps / Platform | Talos Linux platform, talosctl + GitLab CI, LUKS2 with KMS dead man's switch, etcd backups, Keycloak SSO, ArgoCD |
-| Mar 2024 – Mar 2026 | Progressive Mind · Dubai | DevOps | 136 hosts / 13 providers on Ansible, GPU MIG + time-slicing, per-branch K8s environments, shared CI templates |
+| Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | 136 hosts / 13 providers on Ansible, GPU MIG + time-slicing, per-branch K8s environments, shared CI templates |
 | Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring stack, Ansible / Terraform |
 | 2021 – 2023 | Appello Software · Sydney | DevOps | −15% EC2 bill (Reserved Instances), −40% CI pipeline time, reusable IaC |
 | 2020 – 2021 | RT Labs · Moscow | DevOps | Secure VMware cloud, GitLab CI, −70% manual ops |
