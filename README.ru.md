@@ -34,11 +34,11 @@ Senior Platform Engineer · Тбилиси, Грузия · удалённо, б
 ## Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,gitlab,githubactions,jenkins,bash,python,prometheus,grafana,postgres,mysql,mongodb,redis,nginx,linux&perline=10" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,gitlab,githubactions,jenkins,bash,python,prometheus,grafana,postgres,mysql,mongodb,redis,nginx,linux&perline=10" alt="Tech stack"/>
 </p>
 
 **Платформа** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · ArgoCD · Flux · Docker<br/>
-**Облако / IaC** AWS · GCP · Terraform · Ansible<br/>
+**Облако / IaC** AWS · Terraform · Ansible<br/>
 **Observability** VictoriaMetrics · VictoriaLogs · Prometheus · Grafana · Zabbix · ELK<br/>
 **Безопасность** Keycloak (SSO/OIDC) · HashiCorp Vault · LUKS2 + KMS · Cloudflare<br/>
 **Сеть** HAProxy · nginx · Cilium (Gateway API) · iptables<br/>

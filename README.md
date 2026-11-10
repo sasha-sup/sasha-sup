@@ -34,11 +34,11 @@ I build and run the internal platform development teams ship on: Kubernetes on o
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,gitlab,githubactions,jenkins,bash,python,prometheus,grafana,postgres,mysql,mongodb,redis,nginx,linux&perline=10" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,gitlab,githubactions,jenkins,bash,python,prometheus,grafana,postgres,mysql,mongodb,redis,nginx,linux&perline=10" alt="Tech stack"/>
 </p>
 
 **Platform** Kubernetes (Talos, Kubespray, kubeadm, EKS) · Helm · ArgoCD · Flux · Docker<br/>
-**Cloud / IaC** AWS · GCP · Terraform · Ansible<br/>
+**Cloud / IaC** AWS · Terraform · Ansible<br/>
 **Observability** VictoriaMetrics · VictoriaLogs · Prometheus · Grafana · Zabbix · ELK<br/>
 **Security** Keycloak (SSO/OIDC) · HashiCorp Vault · LUKS2 + KMS · Cloudflare<br/>
 **Net** HAProxy · nginx · Cilium (Gateway API) · iptables<br/>
