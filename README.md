@@ -4,7 +4,7 @@
 
 Senior Platform Engineer · Tbilisi, Georgia · open to remote, no relocation
 
-7+ years in production infrastructure — bare metal, Talos Linux Kubernetes, and GPU nodes for ML/LLM. Cut metric series by 25%, the EC2 bill by 15% and CI time by 40%.
+I build and run the internal platform development teams ship on: Kubernetes on own servers, GPUs and AWS, 7+ years in production. Test environments in minutes instead of hours, releases cut from hours to minutes, upgrades with no downtime, AWS bill −15%, monitoring load −40%.
 
 <a href="https://github.com/sasha-sup"><img src="https://img.shields.io/badge/GitHub-sasha--sup-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/aleksandr-suprun"><img src="https://img.shields.io/badge/LinkedIn-aleksandr--suprun-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,12 +24,12 @@ Senior Platform Engineer · Tbilisi, Georgia · open to remote, no relocation
 
 | Years | Where | Role | Focus |
 | --- | --- | --- | --- |
-| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Talos Linux platform on 26 nodes, talosctl + GitLab CI, LUKS2 with KMS dead man's switch, etcd backups, Keycloak SSO, ArgoCD |
-| Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | 136 hosts / 13 providers on Ansible, GPU MIG + time-slicing, per-branch K8s environments, shared CI templates |
-| Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring tasks (Consul, Alertmanager, Grafana), Ansible / Terraform |
-| 2021 – 2023 | Appello Software · Sydney | DevOps | Sole DevOps: −15% EC2 bill (Savings Plans), −40% CI pipeline time, monitoring from scratch, boxed product into a client's AWS |
-| 2020 – 2021 | RT Labs · Moscow | DevOps | Sole DevOps on a government project: Ansible and CI/CD for the app and DB migrations, twice-weekly releases from hours to minutes |
-| 2018 – 2020 | Chestny Znak · Moscow | Linux Engineer | 24/7 on-call shift, 1200+ server fleet, 3 datacenters |
+| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Production that survives a data center failure and upgrades with no downtime; client data protected from server seizure; one login for 45+ people |
+| Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | Test environments in minutes instead of hours for 60+ services; shared CI for 21 repositories; two ML models on one GPU |
+| Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring and failure alerts for the app's production |
+| 2021 – 2023 | Appello Software · Sydney | DevOps | Sole DevOps: AWS bill −15% after monitoring showed idle servers, builds 40% faster, product delivered into a client's AWS |
+| 2020 – 2021 | RT Labs · Moscow | DevOps | Sole DevOps on a government project: releases from hours of manual work to minutes, every release traceable |
+| 2018 – 2020 | Chestny Znak · Moscow | Linux Engineer | Kept a national product-labeling system within agreed response times: 1200+ servers, 3 data centers, 24/7 shift |
 
 ## Stack
 

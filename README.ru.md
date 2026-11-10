@@ -4,7 +4,7 @@
 
 Senior Platform Engineer · Тбилиси, Грузия · удалённо, без релокации
 
-7+ лет в production-инфраструктуре — bare metal, Kubernetes на Talos Linux и GPU-ноды для ML/LLM. Сократил ряды метрик на 25%, счёт EC2 на 15% и время CI на 40%.
+Строю и веду внутреннюю платформу, на которой команды разработки выпускают продукт: Kubernetes на своих серверах, GPU и AWS, 7+ лет в production. Тестовые окружения за минуты вместо часов, релизы за минуты вместо часов, обновления без простоя, счёт AWS −15%, нагрузка на мониторинг −40%.
 
 <a href="https://github.com/sasha-sup"><img src="https://img.shields.io/badge/GitHub-sasha--sup-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/aleksandr-suprun"><img src="https://img.shields.io/badge/LinkedIn-aleksandr--suprun-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,12 +24,12 @@ Senior Platform Engineer · Тбилиси, Грузия · удалённо, б
 
 | Годы | Где | Роль | Над чем работал |
 | --- | --- | --- | --- |
-| Янв 2026 – н.в. | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Платформа на Talos Linux на 26 нодах, talosctl + GitLab CI, LUKS2 с KMS и dead man's switch, бэкапы etcd, Keycloak SSO, ArgoCD |
-| Мар 2024 – Дек 2025 | Progressive Mind · Дубай | DevOps | 136 хостов у 13 провайдеров на Ansible, GPU MIG + time-slicing, окружения на ветку в K8s, общие CI-шаблоны |
-| Июл – Окт 2023 | Sweatcoin · Лондон | DevOps | Задачи по мониторингу (Consul, Alertmanager, Grafana), Ansible / Terraform |
-| 2021 – 2023 | Appello Software · Сидней | DevOps | Единственный DevOps: −15% счёта EC2 (Savings Plans), −40% времени CI-пайплайна, мониторинг с нуля, коробочный продукт в AWS заказчика |
-| 2020 – 2021 | RT Labs · Москва | DevOps | Единственный DevOps на госпроекте: Ansible и CI/CD для приложения и миграций БД, релизы дважды в неделю — с часов до минут |
-| 2018 – 2020 | Честный Знак · Москва | Linux Engineer | Дежурная смена 24/7, парк 1200+ серверов, 3 ДЦ |
+| Янв 2026 – н.в. | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Production переживает отказ дата-центра и обновляется без простоя; данные клиентов защищены от изъятия серверов; один логин для 45+ человек |
+| Мар 2024 – Дек 2025 | Progressive Mind · Дубай | DevOps | Тестовые окружения за минуты вместо часов для 60+ сервисов; общий CI для 21 репозитория; две ML-модели на одной GPU |
+| Июл – Окт 2023 | Sweatcoin · Лондон | DevOps | Мониторинг и алерты о сбоях для production приложения |
+| 2021 – 2023 | Appello Software · Сидней | DevOps | Единственный DevOps: счёт AWS −15% после того, как мониторинг показал простаивающие серверы, сборки быстрее на 40%, продукт развёрнут в AWS клиента |
+| 2020 – 2021 | RT Labs · Москва | DevOps | Единственный DevOps на госпроекте: релизы за минуты вместо часов ручной работы, каждый релиз отслеживается |
+| 2018 – 2020 | Честный Знак · Москва | Linux Engineer | Национальная система маркировки в согласованные сроки реакции: 1200+ серверов, 3 ДЦ, смена 24/7 |
 
 ## Стек
 
