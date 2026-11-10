@@ -2,7 +2,7 @@
 
 # Aleksandr Suprun
 
-Senior DevOps / Platform Engineer · Тбилиси, Грузия
+Senior Platform Engineer · Тбилиси, Грузия · удалённо, без релокации
 
 7+ лет в production-инфраструктуре — bare metal, Kubernetes на Talos Linux и GPU-ноды для ML/LLM. Сократил ряды метрик на 25%, счёт EC2 на 15% и время CI на 40%.
 
@@ -24,11 +24,11 @@ Senior DevOps / Platform Engineer · Тбилиси, Грузия
 
 | Годы | Где | Роль | Над чем работал |
 | --- | --- | --- | --- |
-| Янв 2026 – н.в. | Confidential iGaming B2B platform (NDA) | Senior DevOps / Platform | Платформа на Talos Linux, talosctl + GitLab CI, LUKS2 с KMS и dead man's switch, бэкапы etcd, Keycloak SSO, ArgoCD |
+| Янв 2026 – н.в. | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Платформа на Talos Linux на 26 нодах, talosctl + GitLab CI, LUKS2 с KMS и dead man's switch, бэкапы etcd, Keycloak SSO, ArgoCD |
 | Мар 2024 – Дек 2025 | Progressive Mind · Дубай | DevOps | 136 хостов у 13 провайдеров на Ansible, GPU MIG + time-slicing, окружения на ветку в K8s, общие CI-шаблоны |
-| Июл – Окт 2023 | Sweatcoin · Лондон | DevOps | Мониторинг-стек, Ansible / Terraform |
-| 2021 – 2023 | Appello Software · Сидней | DevOps | −15% счёта EC2 (Reserved Instances), −40% времени CI-пайплайна, переиспользуемый IaC |
-| 2020 – 2021 | RT Labs · Москва | DevOps | Защищённое VMware-облако, GitLab CI, −70% ручных операций |
+| Июл – Окт 2023 | Sweatcoin · Лондон | DevOps | Задачи по мониторингу (Consul, Alertmanager, Grafana), Ansible / Terraform |
+| 2021 – 2023 | Appello Software · Сидней | DevOps | Единственный DevOps: −15% счёта EC2 (Savings Plans), −40% времени CI-пайплайна, мониторинг с нуля, коробочный продукт в AWS заказчика |
+| 2020 – 2021 | RT Labs · Москва | DevOps | Единственный DevOps на госпроекте: Ansible и CI/CD для приложения и миграций БД, релизы дважды в неделю — с часов до минут |
 | 2018 – 2020 | Честный Знак · Москва | Linux Engineer | Дежурная смена 24/7, парк 1200+ серверов, 3 ДЦ |
 
 ## Стек

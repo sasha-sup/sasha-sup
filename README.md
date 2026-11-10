@@ -2,7 +2,7 @@
 
 # Aleksandr Suprun
 
-Senior DevOps / Platform Engineer · Tbilisi, Georgia
+Senior Platform Engineer · Tbilisi, Georgia · open to remote, no relocation
 
 7+ years in production infrastructure — bare metal, Talos Linux Kubernetes, and GPU nodes for ML/LLM. Cut metric series by 25%, the EC2 bill by 15% and CI time by 40%.
 
@@ -24,11 +24,11 @@ Senior DevOps / Platform Engineer · Tbilisi, Georgia
 
 | Years | Where | Role | Focus |
 | --- | --- | --- | --- |
-| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior DevOps / Platform | Talos Linux platform, talosctl + GitLab CI, LUKS2 with KMS dead man's switch, etcd backups, Keycloak SSO, ArgoCD |
+| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Talos Linux platform on 26 nodes, talosctl + GitLab CI, LUKS2 with KMS dead man's switch, etcd backups, Keycloak SSO, ArgoCD |
 | Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | 136 hosts / 13 providers on Ansible, GPU MIG + time-slicing, per-branch K8s environments, shared CI templates |
-| Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring stack, Ansible / Terraform |
-| 2021 – 2023 | Appello Software · Sydney | DevOps | −15% EC2 bill (Reserved Instances), −40% CI pipeline time, reusable IaC |
-| 2020 – 2021 | RT Labs · Moscow | DevOps | Secure VMware cloud, GitLab CI, −70% manual ops |
+| Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring tasks (Consul, Alertmanager, Grafana), Ansible / Terraform |
+| 2021 – 2023 | Appello Software · Sydney | DevOps | Sole DevOps: −15% EC2 bill (Savings Plans), −40% CI pipeline time, monitoring from scratch, boxed product into a client's AWS |
+| 2020 – 2021 | RT Labs · Moscow | DevOps | Sole DevOps on a government project: Ansible and CI/CD for the app and DB migrations, twice-weekly releases from hours to minutes |
 | 2018 – 2020 | Chestny Znak · Moscow | Linux Engineer | 24/7 on-call shift, 1200+ server fleet, 3 datacenters |
 
 ## Stack
