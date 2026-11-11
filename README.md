@@ -24,10 +24,10 @@ I build and run the internal platform development teams ship on: Kubernetes on o
 
 | Years | Where | Role | Focus |
 | --- | --- | --- | --- |
-| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Production that survives a data center failure and upgrades with no downtime; client data protected from server seizure; one login for 45+ people |
-| Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | Test environments in minutes instead of hours for 60+ services; shared CI for 21 repositories; two ML models on one GPU |
+| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Upgrades with no downtime for 6 teams and production that survives a data center failure; client data unreadable if a server is seized; single sign-on for 45+ people built from scratch; all work done with AI agents |
+| Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | Test environments in minutes instead of hours for 30+ developers and QA, 60+ services; shared CI for 21 repositories; more tests and models on the same 5 GPUs |
 | Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring and failure alerts for the app's production |
-| 2021 – 2023 | Appello Software · Sydney | DevOps | Sole DevOps: AWS bill −15% after monitoring showed idle servers, builds 40% faster, product delivered into a client's AWS |
+| 2021 – 2023 | Appello Software · Sydney | DevOps | Sole DevOps: AWS bill −15% after monitoring showed idle servers, builds 40% faster, ~20 client products deployed into the clients' own AWS accounts |
 | 2020 – 2021 | RT Labs · Moscow | DevOps | Sole DevOps on a government project: releases from hours of manual work to minutes, every release traceable |
 | 2018 – 2020 | Chestny Znak · Moscow | Linux Engineer | Kept a national product-labeling system within agreed response times: 1200+ servers, 3 data centers, 24/7 shift |
 
@@ -43,7 +43,7 @@ I build and run the internal platform development teams ship on: Kubernetes on o
 **Security** Keycloak (SSO/OIDC) · HashiCorp Vault · LUKS2 + KMS · Cloudflare<br/>
 **Net** HAProxy · nginx · Cilium (Gateway API) · iptables<br/>
 **Data** PostgreSQL · MySQL · MongoDB · ClickHouse · Elasticsearch · Redis<br/>
-**AI/ML** GPU scheduling (NVIDIA MIG, time-slicing) · LLM coding agents daily
+**AI/ML** GPU scheduling (NVIDIA MIG, time-slicing) · agentic development: all tasks with AI agents, own skills and MCP servers
 
 ## Certifications
 
