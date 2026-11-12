@@ -4,7 +4,7 @@
 
 Senior Platform Engineer · Тбилиси, Грузия · удалённо, без релокации
 
-Строю и веду внутреннюю платформу, на которой команды разработки выпускают продукт: Kubernetes на своих серверах, GPU и AWS, 7+ лет в production. доступность 99,8% и обновления без простоя, тестовые окружения за 15–20 минут вместо 4–8 часов, релизы за минуты вместо часов, счёт AWS −15%, нагрузка на мониторинг −40%.
+Строю и веду внутреннюю платформу, на которой команды разработки выпускают продукт: Kubernetes на своих серверах, GPU и AWS, 7+ лет в production. Доступность 99,8% и обновления без простоя, тестовые окружения за 15–20 минут вместо 4–8 часов, релизы за минуты вместо часов, счёт AWS −15%, нагрузка на мониторинг −40%.
 
 <a href="https://github.com/sasha-sup"><img src="https://img.shields.io/badge/GitHub-sasha--sup-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/aleksandr-suprun"><img src="https://img.shields.io/badge/LinkedIn-aleksandr--suprun-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
