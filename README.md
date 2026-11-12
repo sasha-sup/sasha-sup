@@ -4,7 +4,7 @@
 
 Senior Platform Engineer · Tbilisi, Georgia · open to remote, no relocation
 
-I build and run the internal platform development teams ship on: Kubernetes on own servers, GPUs and AWS, 7+ years in production. Test environments in minutes instead of hours, releases cut from hours to minutes, upgrades with no downtime, AWS bill −15%, monitoring load −40%.
+I build and run the internal platform development teams ship on: Kubernetes on own servers, GPUs and AWS, 7+ years in production. 99.8% uptime with zero-downtime upgrades, test environments in 15–20 minutes instead of 4–8 hours, releases cut from hours to minutes, AWS bill −15%, monitoring load −40%.
 
 <a href="https://github.com/sasha-sup"><img src="https://img.shields.io/badge/GitHub-sasha--sup-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/aleksandr-suprun"><img src="https://img.shields.io/badge/LinkedIn-aleksandr--suprun-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,8 +24,8 @@ I build and run the internal platform development teams ship on: Kubernetes on o
 
 | Years | Where | Role | Focus |
 | --- | --- | --- | --- |
-| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | Upgrades with no downtime for 6 teams and production that survives a data center failure; client data unreadable if a server is seized; single sign-on for 45+ people built from scratch; all work done with AI agents |
-| Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | Test environments in minutes instead of hours for 30+ developers and QA, 60+ services; shared CI for 21 repositories; more tests and models on the same 5 GPUs |
+| Jan 2026 – now | Confidential iGaming B2B platform (NDA) | Senior Platform Engineer | 99.8% uptime and zero-downtime upgrades for 6 teams; production survives a data center failure; client data unreadable if a server is seized; single sign-on for 45+ people built from scratch; all work done with AI agents |
+| Mar 2024 – Dec 2025 | Progressive Mind · Dubai | DevOps | Test environments in 15–20 minutes instead of 4–8 hours for 30+ developers and QA, 60+ services; shared CI for 21 repositories; more tests and models on the same 5 GPUs |
 | Jul – Oct 2023 | Sweatcoin · London | DevOps | Monitoring and failure alerts for the app's production |
 | 2021 – 2023 | Appello Software · Sydney | DevOps | Sole DevOps: AWS bill −15% after monitoring showed idle servers, builds 40% faster, ~20 client products deployed into the clients' own AWS accounts |
 | 2020 – 2021 | RT Labs · Moscow | DevOps | Sole DevOps on a government project: releases from hours of manual work to minutes, every release traceable |
